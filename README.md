@@ -3,6 +3,9 @@
 A PowerShell script that obfuscates Lua code to make it harder to read while preserving functionality. Built with a hacker-themed UI for style.  
 **Note:** This is a Work in Progress (WIP) and not fully functional yet—some features may have bugs or limitations.
 
+## Screenshot
+![Screenshot of Lua Obfuscation Tool](screenshot.png){ width=500 }
+
 ## Features
 - **Variable Renaming**: Randomizes variable names.
 - **Function Renaming**: Renames user-defined functions (preserves Lua built-ins).
